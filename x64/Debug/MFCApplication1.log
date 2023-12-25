@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  CHcn.cpp
+  Ctron.cpp
+  MainFrm.cpp
+  MFCApplication1.cpp
+  MFCApplication1Doc.cpp
+  MFCApplication1View.cpp
+D:\MFC\MFCApplication1\MFCApplication1\CHcn.h(3,1): error C2011: 'CHcn': 'class' type redefinition
+D:\MFC\MFCApplication4\MFCApplication1\CHcn.h(2,7): message : see declaration of 'CHcn'
+D:\MFC\MFCApplication1\MFCApplication1\CRobot.h(10,7): error C2079: 'CRobot::body' uses undefined class 'CHcn'
+D:\MFC\MFCApplication1\MFCApplication1\CRobot.h(10,13): error C2079: 'CRobot::hand' uses undefined class 'CHcn'
+D:\MFC\MFCApplication4\MFCApplication1\MFCApplication1View.cpp(39,2): error C2065: 'tron1': undeclared identifier
+D:\MFC\MFCApplication4\MFCApplication1\MFCApplication1View.cpp(40,2): error C2065: 'background': undeclared identifier
+D:\MFC\MFCApplication4\MFCApplication1\MFCApplication1View.cpp(40,19): error C2027: use of undefined type 'CHcn'
+D:\MFC\MFCApplication4\MFCApplication1\CHcn.h(2,7): message : see declaration of 'CHcn'
+D:\MFC\MFCApplication4\MFCApplication1\MFCApplication1View.cpp(41,2): error C2065: 'robot': undeclared identifier
+D:\MFC\MFCApplication4\MFCApplication1\MFCApplication1View.cpp(72,2): error C2065: 'robot': undeclared identifier
+D:\MFC\MFCApplication4\MFCApplication1\MFCApplication1View.cpp(119,28): error C2509: 'OnKeyDown': member function not declared in 'CMFCApplication1View'
+D:\MFC\MFCApplication4\MFCApplication1\MFCApplication1View.h(9,7): message : see declaration of 'CMFCApplication1View'
+  Generating Code...
